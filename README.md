@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I'm currently working on:<br>Studying at The LNM Institute of Information Technology , graduating in 2027. Passionate about Web Dev and Competitive Programming . Aspiring to become an amazing web developer.<br><br>🤝 I'm looking to collaborate on:<br>Web development projects<br><br>🆘 I'm looking for help with:<br>Enhancing my skills in webDev and making new Full stack Projects.<br><br>🌱 I'm currently learning:<br>Back-end development and will soon pursue ML.<br><br>💬 Ask me about:<br>Web development (MERN)<br><br>🎬 Fun fact:<br>I love playing games and watching movies and shows.<br><br><br><br>
+🌟 I'm currently Studying at:<br> The LNM Institute of Information Technology , graduating in 2027. Passionate about Web Dev and Competitive Programming . Aspiring to become an amazing web developer.<br><br>🤝 I'm looking to collaborate on:<br>Web development projects<br><br>🆘 I'm looking for help with:<br>Enhancing my skills in webDev and making new Full stack Projects.<br><br>🌱 I'm currently learning:<br>Back-end development and will soon pursue ML.<br><br>💬 Ask me about:<br>Web development (MERN)<br><br>🎬 Fun fact:<br>I love playing games and watching movies and shows.<br><br><br><br>
 
 
 ## 🌐 Socials:
