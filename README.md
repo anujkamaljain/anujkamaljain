@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anujkamaljain&show_icons=true&theme=radical" width="45%" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkamaljain&theme=radical" width="45%" /> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkamaljain&theme=radical" width="45%" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkamaljain&layout=compact&theme=radical" alt="anujkamaljain's Top Languages" />
 </p>
 
